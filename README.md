@@ -1,2 +1,2 @@
 # Big.DataScience
-projects about data analytics, statistics, data mining and machine learning.
+Projects about data analysis, statistics, data mining and machine learning.
